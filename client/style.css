@@ -21,6 +21,25 @@ body {
   align-items: center;
   justify-content: space-between;
 }
+.header {
+  
+  background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  
+  color: #fff;
+  font-size: 36px;
+  text-align: center;
+  padding: 20px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  margin-top: 20px;
+}
+
+.header h1 {
+  margin: 0;
+}
+
 
 #chat_container {
   flex: 1;
