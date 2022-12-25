@@ -23,20 +23,23 @@ body {
 }
 
 h2 {
-  background: rgb(122,220,180);
-  background: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0, 217, 255) 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  color: #fff;
-  font-size: 40px;
+  font-family: 'Alegreya Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 48px;
+  /* or 120% */
+  
+  display: flex;
+  align-items: center;
   text-align: center;
-  padding: 20px;
   margin-top: 20px;
+  color: #ffffff;
+  -webkit-text-stroke: 2px black;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-.header h1 {
-  margin: 0;
-}
+
 
 
 #chat_container {
