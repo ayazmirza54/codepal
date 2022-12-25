@@ -22,7 +22,7 @@ body {
   justify-content: space-between;
 }
 
-.header {
+h2 {
   
    background: rgb(122,220,180);
    background: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0, 217, 255) 100%);
