@@ -24,8 +24,7 @@ body {
 .header{
   display: flex;
   flex-direction: row;
-  justify-content: center;
-  align-items: center;
+ 
 }
 h2 {
   background: rgb(122,220,180);
