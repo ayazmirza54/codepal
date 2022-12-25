@@ -28,7 +28,6 @@ body {
   align-items: center;
 }
 h2 {
-  
    background: rgb(122,220,180);
    background: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0, 217, 255) 100%);
    -webkit-background-clip: text;
@@ -38,7 +37,7 @@ h2 {
   font-size: 36px;
   text-align: center;
   padding: 20px;
-  border: 2px solid #22D2A0;
+ 
   margin-top: 20px;
 }
 
