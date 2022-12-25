@@ -23,21 +23,19 @@ body {
 }
 .header{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
 }
 h2 {
-   background: rgb(122,220,180);
-   background: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0, 217, 255) 100%);
-   -webkit-background-clip: text;
-   -webkit-text-fill-color: transparent;
-  
+  background: rgb(122,220,180);
+  background: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0, 217, 255) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   color: #fff;
   font-size: 36px;
   text-align: center;
   padding: 20px;
- 
   margin-top: 20px;
 }
 
