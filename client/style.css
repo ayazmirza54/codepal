@@ -23,8 +23,8 @@ body {
 }
 .header {
   
-   background: rgb(63,94,251);
-   background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+   background: rgb(122,220,180);
+   background: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);
    -webkit-background-clip: text;
    -webkit-text-fill-color: transparent;
   
