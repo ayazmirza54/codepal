@@ -23,20 +23,25 @@ body {
 }
 
 h2 {
+  position: absolute;
+  width: 860px;
+  height: 196px;
+  left: calc(50% - 860px/2);
+  top: calc(50% - 196px/2 - 422px);
+  
   font-family: 'Alegreya Sans';
   font-style: normal;
   font-weight: 500;
-  font-size: 50px;
+  font-size: 40px;
   line-height: 48px;
-  /* or 120% */
-  
   display: flex;
   align-items: center;
   text-align: center;
-  margin-top: 20px;
+  margin: 20px 20px 20px 20px;
   color: #ffffff;
   -webkit-text-stroke: 2px black;
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+
 }
 
 
