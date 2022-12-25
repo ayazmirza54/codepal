@@ -21,18 +21,14 @@ body {
   align-items: center;
   justify-content: space-between;
 }
-.header{
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-}
+
 h2 {
   background: rgb(122,220,180);
   background: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0, 217, 255) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   color: #fff;
-  font-size: 36px;
+  font-size: 40px;
   text-align: center;
   padding: 20px;
   margin-top: 20px;
