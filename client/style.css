@@ -23,12 +23,6 @@ body {
 }
 
 h2 {
-  position: absolute;
-  width: 860px;
-  height: 196px;
-  left: calc(50% - 860px/2);
-  top: calc(50% - 196px/2 - 422px);
-  
   font-family: 'Alegreya Sans';
   font-style: normal;
   font-weight: 500;
